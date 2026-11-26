@@ -1,0 +1,142 @@
+Windows PowerShell 5.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS D:\Games\MultiMC\instances\1.20.1 6June2026Wiped9Nov2026\.minecraft\mods> dir
+
+
+    Directory: D:\Games\MultiMC\instances\1.20.1 6June2026Wiped9Nov2026\.minecraft\mods
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        09.11.2026     16:19                .connector
+-a----        06.06.2026     12:43         208850 AdvancementPlaques-1.20.1-forge-1.6.9.jar
+-a----        06.06.2026     16:12         211181 aiotbotania-1.20.1-4.0.8.jar
+-a----        06.06.2026     12:43        2803994 Apotheosis-1.20.1-7.4.8.jar.disabled
+-a----        06.06.2026     12:43         227511 ApothicAttributes-1.20.1-1.3.7.jar
+-a----        08.06.2026     22:58          47428 appleskin-forge-mc1.20.1-2.5.1.jar
+-a----        06.06.2026     12:43        8495956 appliedenergistics2-forge-15.4.10.jar
+-a----        06.06.2026     12:45         580602 architectury-9.2.14-forge.jar
+-a----        06.06.2026     16:10       12430237 ars_nouveau-1.20.1-4.12.7-all.jar
+-a----        06.06.2026     12:43         591397 balm-forge-1.20.1-7.3.38-all.jar
+-a----        06.06.2026     12:43          98217 BetterAdvancements-Forge-1.20.1-0.4.2.60.jar
+-a----        06.06.2026     12:43          68885 bettercrates-1.20.1-1.0.0.jar
+-a----        06.06.2026     12:43         468517 BetterF3-7.0.2-Forge-1.20.1.jar
+-a----        06.06.2026     12:43         255225 bigger_ae2-1.20.1-1.3.7.jar
+-a----        06.06.2026     16:32         299545 biolith-forge-1.0.1-alpha.1.jar
+-a----        06.06.2026     16:32         248369 biotania-1.0.1-forge.jar
+-a----        18.06.2026      9:57          44027 BorderlessWindow-1.20-1.6.0.jar
+-a----        06.06.2026     16:12       12204268 Botania-1.20.1-453-FORGE.jar
+-a----        06.06.2026     16:12         439835 BotanicAdditions-1.20.1-20.1.3.jar
+-a----        06.06.2026     16:12         250613 BotanicalMachinery-1.20.1-3.0.10.jar
+-a----        06.06.2026     16:10        5426475 caduceus-forge-0.2.1+1.20.1.jar
+-a----        06.06.2026     16:10          40125 caelus-forge-3.2.0+1.20.1.jar
+-a----        06.06.2026     12:43        1181413 cloth-config-11.1.136-forge.jar
+-a----        06.06.2026     16:03          20299 Clumps-forge-1.20.1-12.0.0.4.jar
+-a----        06.06.2026     12:43        1509649 cofh_core-1.20.1-11.0.2.56.jar
+-a----        18.06.2026     11:11        5043906 Connector-1.0.0-beta.48+1.20.1.jar
+-a----        06.06.2026     21:54         210312 constructionwand-1.20.1-2.11.jar
+-a----        18.06.2026     11:09        1016666 continuity-3.0.0+1.20.1.forge.jar
+-a----        06.06.2026     12:43         431318 cristellib-1.1.6-forge.jar
+-a----        06.06.2026     12:46          31643 cupboard-1.20.1-3.7.jar
+-a----        06.06.2026     12:43         398066 curios-forge-5.14.1+1.20.1.jar
+-a----        25.11.2026     16:06        4275426 Cyclic-1.20.1-1.13.7.jar
+-a----        06.06.2026     19:29       29467253 DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar
+-a----        25.11.2026     16:35         188371 elevatorid-1.20.1-1.9.1-forge-fixed.jar
+-a----        06.06.2026     14:12        1320675 embeddium-0.3.31+mc1.20.1.jar
+-a----        06.06.2026     14:22        1121750 emi-1.1.24+1.20.1+forge.jar
+-a----        10.11.2026     22:41         119983 emi_ores-1.3+1.20.1+forge.jar
+-a----        06.06.2026     14:12        1587585 entityculling-forge-1.10.2-mc1.20.1.jar
+-a----        06.06.2026     12:43         767884 Explorify v1.6.5.mod.jar
+-a----        18.06.2026     11:11        3065813 fabric-api-0.92.6+1.11.14+1.20.1.jar
+-a----        06.06.2026     16:08        3313327 FarmersDelight-1.20.1-1.3.2.jar
+-a----        06.06.2026     12:43         276850 flib-1.20.1-0.0.16.jar
+-a----        06.06.2026     16:12          21256 gardenofglass-1.13.jar
+-a----        06.06.2026     16:10        1039046 geckolib-forge-1.20.1-4.8.3.jar
+-a----        06.06.2026     12:43        2371930 GrowableOres-3.7.2-1.20.1-Forge.jar
+-a----        06.06.2026     12:43         341014 GrowableOresThermalCompat-1.0.4-1.20.1-Forge.jar
+-a----        06.06.2026     12:43        9414827 guideme-20.1.15.jar
+-a----        06.06.2026     16:12        2445389 HammerLib-1.20.1-20.1.50.jar
+-a----        06.06.2026     16:10        1590568 hexal-forge-1.20.1-0.3.1.jar
+-a----        06.06.2026     16:10        3837046 hexcasting-forge-1.20.1-0.11.3.jar
+-a----        06.06.2026     16:10        1534155 hexcastingadditions-3.21.jar
+-a----        06.06.2026     16:10        3990961 hexdebug-forge-0.8.0+1.20.1.jar
+-a----        06.06.2026     16:10         465498 HexOverpowered-forge-1.20.1-0.11.7.jar
+-a----        06.06.2026     16:10         553351 hex_ars_link-1.20.1-0.9.5.1.jar
+-a----        06.06.2026     16:10         564559 hierophantics-forge-1.3.7.jar
+-a----        06.06.2026     12:43          29438 Highlighter-1.20.1-forge-1.1.9.jar
+-a----        06.06.2026     12:43         134551 Iceberg-1.20.1-forge-1.1.25.jar
+-a----        06.06.2026     16:03         538992 ImmediatelyFast-Forge-1.5.4+1.20.4.jar
+-a----        06.06.2026     16:32         104548 Improved-Botania-Pools-1.20.1-v0.1.jar
+-a----        06.06.2026     16:32         197527 Improved-Botania-Spreaders-1.20.1-v0.1.jar
+-a----        06.06.2026     16:10         375864 inline-forge-1.20.1-1.2.2.jar
+-a----        06.06.2026     16:10         276974 ioticblocks-forge-1.0.2+1.20.1.jar
+-a----        06.06.2026     16:10         108946 ioticspellbooks-1.1.0.jar
+-a----        06.06.2026     12:43         311290 ironchest-1.20.1-14.4.4.jar
+-a----        06.06.2026     16:10         417885 irons_lib-1.20.1-1.1.0.jar
+-a----        06.06.2026     16:10       15488517 irons_spellbooks-1.20.1-3.16.0.jar
+-a----        11.11.2026     17:08          61470 itempeek-mc1.20.1-1.2.1.jar
+-a----        06.06.2026     15:14         552486 Jade-1.20.1-Forge-11.13.2.jar
+-a----        06.06.2026     12:43        1385600 jei-1.20.1-forge-15.20.0.112.jar
+-a----        06.06.2026     14:14        7160405 journeymap-1.20.1-5.10.3-forge.jar
+-a----        06.06.2026     16:18          31310 Just-Enough-Botania-1.20.1-v0.2.1.jar
+-a----        06.06.2026     12:43         276231 JustEnoughResources-1.20.1-1.4.0.247.jar
+-a----        07.06.2026      0:57         204574 justzoom_forge_2.1.1_MC_1.20.1.jar
+-a----        06.06.2026     12:43         481300 Kc's Growable Ores-1.20.1-1.0.8-Forge.jar
+-a----        07.06.2026      0:58         625185 konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
+-a----        06.06.2026     16:10        7442998 kotlinforforge-4.12.0-all.jar
+-a----        06.06.2026     12:43          55258 LegendaryTooltips-1.20.1-forge-1.4.5.jar
+-a----        06.06.2026     16:12        1253011 LibX-1.20.1-5.0.12.jar
+-a----        06.06.2026     12:43          42220 lootintegrations-1.20.1-4.7.jar
+-a----        06.06.2026     12:43         463485 lootr-forge-1.20-0.7.35.94.jar
+-a----        06.06.2026     12:43        1510937 MoogsEndStructures-1.20-2.0.3.jar
+-a----        06.06.2026     12:43        1564157 MoogsVoyagerStructures-1.20-5.0.6.jar
+-a----        06.06.2026     12:43         259848 moogs_structure_lib-1.1.0-1.20-1.20.4-forge.jar
+-a----        06.06.2026     16:08        1397030 moonlight-1.20-2.16.33-forge.jar
+-a----        06.06.2026     16:10       19408245 moreiotas-forge-1.20.1-0.1.1.jar
+-a----        06.06.2026     12:43          76237 MouseTweaks-forge-mc1.20.1-2.25.1.jar
+-a----        06.06.2026     16:12        2233413 MythicBotany-1.20.1-4.0.4.jar
+-a----        06.06.2026     12:45         424035 OctoLib-FORGE-0.5.0.1+1.20.1.jar
+-a----        06.06.2026     16:04        2851119 oculus-mc1.20.1-1.8.0.jar
+-a----        06.06.2026     16:11        1492978 oneironaut-reforgedv1.20.1 - 1.0.5.jar
+-a----        08.06.2026     20:11        7145205 OptiFine_1.20.1_HD_U_I6.jar.disabled
+-a----        06.06.2026     14:08         277361 oreexcavation-1.13.174.jar
+-a----        15.06.2026     23:47         188661 packetfixer-3.3.2-1.18-1.20.4-merged.jar
+-a----        09.11.2026     17:06        1050402 pamhc2crops-1.20-1.0.3.jar
+-a----        09.11.2026     17:06        1736276 pamhc2foodcore-NEOFORGE-1.26.2-1.0.0.jar
+-a----        09.11.2026     17:07        2062882 pamhc2foodextended-1.20.4-1.0.1.jar
+-a----        06.06.2026     12:43         642732 Patchouli-1.20.1-85-FORGE.jar
+-a----        06.06.2026     16:10         283568 paucal-0.6.0+1.20.1-forge.jar
+-a----        06.06.2026     12:43         157314 Ping-Wheel-1.12.1-forge-1.20.1.jar
+-a----        06.06.2026     12:43         431615 pipez-forge-1.20.1-1.2.26.jar
+-a----        06.06.2026     12:43         282474 Placebo-1.20.1-8.6.3.jar
+-a----        06.06.2026     16:10         181437 player-animation-lib-forge-1.0.2-rc1+1.20.jar
+-a----        06.06.2026     12:43         299601 polymorph-forge-0.49.10+1.20.1.jar
+-a----        06.06.2026     12:43          52205 Prism-1.20.1-forge-1.0.5.jar
+-a----        18.06.2026     12:34        3793684 Quick Skin - Forge - 1.20.1-2.6.2.4.jar
+-a----        06.06.2026     12:43          25272 refinedpolymorph-0.1.1-1.20.1.jar
+-a----        06.06.2026     12:43        3300191 refinedstorage-1.12.4.jar
+-a----        06.06.2026     12:43        1521089 relics-1.20.1-0.8.0.13.jar
+-a----        10.11.2026     23:10          85543 rer-2.9.0.jar.disabled
+-a----        10.11.2026     23:16        2384003 RoughlyEnoughItems-12.1.785-forge.jar.disabled
+-a----        06.06.2026     12:43        2163998 skinlayers3d-forge-1.11.1-mc1.20.1.jar
+-a----        08.06.2026     20:23         511601 sodiumdynamiclights-forge-1.0.10-1.20.1.jar
+-a----        06.06.2026     12:43        1112022 sophisticatedbackpacks-1.20.1-3.24.48.1821.jar
+-a----        06.06.2026     12:43        1586336 sophisticatedcore-1.20.1-1.3.42.1945.jar
+-a----        06.06.2026     16:04        3114590 spark-1.10.53-forge.jar
+-a----        06.06.2026     12:43        1143623 StorageDrawers-forge-1.20.1-12.14.3.jar
+-a----        06.06.2026     12:43        1286460 Structory_1.20.x_v1.3.5.jar
+-a----        06.06.2026     12:43         526234 Structory_Towers_1.20.x_v1.0.7.jar
+-a----        06.06.2026     16:08       13667742 supplementaries-1.20-3.1.43-forge.jar
+-a----        06.06.2026     12:43        1636262 ThermalExtra-3.3.1-1.20.1.jar
+-a----        06.06.2026     12:43         622032 thermal_cultivation-1.20.1-11.0.1.24.jar
+-a----        06.06.2026     12:43         622948 thermal_dynamics-1.20.1-11.0.1.23.jar
+-a----        06.06.2026     12:43         574141 thermal_expansion-1.20.1-11.0.1.29.jar
+-a----        06.06.2026     12:43        4549423 thermal_foundation-1.20.1-11.0.6.70.jar
+-a----        06.06.2026     12:43         225344 thermal_innovation-1.20.1-11.0.1.23.jar
+-a----        06.06.2026     12:43         333350 thermal_integration-1.20.1-11.0.1.27.jar
+-a----        06.06.2026     12:43        2864275 Towns-and-Towers-1.12-Fabric+Forge.jar
+-a----        06.06.2026     12:43         533738 waystones-forge-1.20.1-14.1.20.jar
+
+
+PS D:\Games\MultiMC\instances\1.20.1 6June2026Wiped9Nov2026\.minecraft\mods>
